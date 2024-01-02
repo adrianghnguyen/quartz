@@ -1,0 +1,963 @@
+---
+dg-permalink: 
+aliases:
+  - Techniques to Find My Classification and how to classify things
+  - how to classify things
+  - classification
+  - organization buckets
+  - classifying things
+  - organizing information
+tags:
+  - reference-material/read-it-later/article/wikipedia
+file-created: 2023-02-15
+file-modified: 2023-09-03
+note-type: 
+description: 
+AutoNoteMover: disable
+linter-yaml-title-alias: Techniques to Find My Classification and how to classify things
+---
+
+# Techniques to Find My Classification and how to classify things
+
+## Use the Wikipedia Dewey Decimal System
+
+> [!NOTE] How to use the dewey decimal system to organize my tags
+> They should fall under the big umbrellas or be regrouped according to this. Ctrl+F a topic to find it.
+>
+> I've made a shortlist of the topics. To see the complete list, go see on Wikipedia [List of Dewey Decimal classes - Wikipedia](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes)
+
+## Use a Dewey search Engine
+
+I made search shortcut within Chrome to find books/topics within the Dewey Decimal system. By finding a book on the topic of my tag, I can get an approximate idea of what classification it should go in.
+
+Here I searched for Waffles and I can get an idea of what genre it should be in. So if I had something about waffles, that's how I'd tag it using "#food/cooking" for example.
+
+![[Pasted image 20230215224206.png]]
+
+# [List of Dewey Decimal classes - Wikipedia](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes)
+
+From Wikipedia, the free encyclopedia
+
+The [Dewey Decimal Classification](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification "Dewey Decimal Classification") (DDC) is structured around ten main classes covering the entire world of [knowledge](https://en.wikipedia.org/wiki/Knowledge "Knowledge"); each main class is further structured into ten [hierarchical](https://en.wikipedia.org/wiki/Hierarchy "Hierarchy") divisions, each having ten divisions of increasing specificity.[\[1\]](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_note-1) As a system of [library classification](https://en.wikipedia.org/wiki/Library_classification "Library classification") the DDC is "arranged by discipline, not subject", so a topic like [clothing](https://en.wikipedia.org/wiki/Clothing "Clothing") is classed based on its disciplinary treatment (psychological influence of clothing at 155.95, customs associated with clothing at 391, and fashion design of clothing at 746.92) within the conceptual framework.[\[2\]](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_note-2) The list below presents the ten main classes, hundred divisions, and thousand sections.[\[3\]](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_note-3)
+
+## Class 000 – Computer Science, Information and General works\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=1 "Edit section: Class 000 – Computer science, information and general works")\]
+
+- **000 Computer science, knowledge and systems**
+	- 000 [Computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science "Outline of computer science"), information and general works
+	- 001 [Knowledge](https://en.wikipedia.org/wiki/Outline_of_knowledge "Outline of knowledge")
+	- 002 The [book](https://en.wikipedia.org/wiki/Book "Book") (writing, libraries, and book-related topics)
+	- 003 [Systems](https://en.wikipedia.org/wiki/System "System")
+	- 004 [Data processing](https://en.wikipedia.org/wiki/Data_processing "Data processing") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science")
+	- 005 [Computer programming](https://en.wikipedia.org/wiki/Outline_of_computer_programming "Outline of computer programming"), [programs](https://en.wikipedia.org/wiki/Computer_software "Computer software") and [data](https://en.wikipedia.org/wiki/Data_(computing) "Data (computing)")
+	- 006 Special computer methods (e.g. AI, multimedia, VR)[\[4\]](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_note-4)
+	- 007–009 \[Unassigned\]
+- **010 Bibliographies**
+- **020 [Library and information sciences](https://en.wikipedia.org/wiki/Outline_of_library_science "Outline of library science")**
+	- 020 Library and information sciences
+	- 021 Library relationships (with [archives](https://en.wikipedia.org/wiki/Archive "Archive"), information centers, etc.)
+	- 022 Administration of physical plant
+	- 023 [Personnel management](https://en.wikipedia.org/wiki/Human_resource_management "Human resource management")
+	- 024 \[Unassigned\]
+	- 025 [Library operations](https://en.wikipedia.org/wiki/Library_management "Library management")
+	- 026 Libraries for specific subjects
+	- 027 General libraries
+	- 028 Reading and use of other information media
+	- 029 \[Unassigned\]
+- **030 Encyclopedias and books of facts**
+- **040 Unassigned *(formerly [Biographies](https://en.wikipedia.org/wiki/Biographies "Biographies"))***
+- **050 Magazines, journals and serials**
+- **060 Associations, organizations and museums**
+- **070 News media, journalism and publishing**
+- **080 Quotations**
+- **090 [Manuscripts](https://en.wikipedia.org/wiki/Manuscript "Manuscript") and rare books or printed works **
+	- 099 Books notable for format
+
+## Class 100 – Philosophy and psychology\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=2 "Edit section: Class 100 – Philosophy and psychology")\]
+
+- **100 [Philosophy](https://en.wikipedia.org/wiki/Outline_of_philosophy "Outline of philosophy")**
+	- 100 Philosophy and psychology
+	- 101 Theory of philosophy
+	- 102 Miscellany
+	- 103 Dictionaries and encyclopedias
+	- 104 *No longer used — formerly "Essays"*
+	- 105 Serial publications
+	- 106 Organizations and management
+	- 107 Education, research, related topics of philosophy
+	- 108 Groups of [people](https://en.wikipedia.org/wiki/List_of_philosophers "List of philosophers")
+	- 109 [History](https://en.wikipedia.org/wiki/History_of_philosophy "History of philosophy") and collected biography
+- **110 [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics "Metaphysics")**
+	- 110 Metaphysics
+	- 111 [Ontology](https://en.wikipedia.org/wiki/Ontology "Ontology")
+	- 112 *No longer used — formerly [Methodology](https://en.wikipedia.org/wiki/Methodology "Methodology")*
+	- 113 [Cosmology](https://en.wikipedia.org/wiki/Cosmology "Cosmology") ([Philosophy of nature](https://en.wikipedia.org/wiki/Philosophy_of_nature "Philosophy of nature"))
+	- 114 [Space](https://en.wikipedia.org/wiki/Philosophy_of_space_and_time "Philosophy of space and time")
+	- 115 [Time](https://en.wikipedia.org/wiki/Philosophy_of_space_and_time "Philosophy of space and time")
+	- 116 Change
+	- 117 Structure
+	- 118 Force and energy
+	- 119 Number and quantity
+- **120 [Epistemology](https://en.wikipedia.org/wiki/Outline_of_epistemology "Outline of epistemology") aka Theory of Knowledge**
+	- 120 Epistemology, causation, and humankind
+	- 121 Epistemology (Theory of knowledge)
+	- 122 Causation
+	- 123 [Determinism](https://en.wikipedia.org/wiki/Determinism "Determinism") and [indeterminism](https://en.wikipedia.org/wiki/Indeterminism "Indeterminism")
+	- 124 [Teleology](https://en.wikipedia.org/wiki/Teleology "Teleology")
+	- 125 *No longer used — formerly [Infinity](https://en.wikipedia.org/wiki/Infinity "Infinity")*
+	- 126 [The self](https://en.wikipedia.org/wiki/Outline_of_self "Outline of self")
+	- 127 The unconscious and the subconscious
+	- 128 [Humankind](https://en.wikipedia.org/wiki/Humankind "Humankind")
+	- 129 Origin and destiny of individual souls
+- **130 [Parapsychology](https://en.wikipedia.org/wiki/Parapsychology "Parapsychology") and [occultism](https://en.wikipedia.org/wiki/Occultism "Occultism")**
+	- 130 Parapsychology and occultism
+	- 131 Parapsychological and occult methods for achieving well-being, happiness, success
+	- 132 *No longer used — formerly "Mental derangements"*
+	- 133 Specific topics in parapsychology and occultism
+	- 134 *No longer used — formerly "[Mesmerism](https://en.wikipedia.org/wiki/Mesmerism "Mesmerism") and [Clairvoyance](https://en.wikipedia.org/wiki/Clairvoyance "Clairvoyance")"*
+	- 135 [Dreams](https://en.wikipedia.org/wiki/Dream "Dream") and mysteries
+	- 136 *No longer used — formerly "Mental characteristics"*
+	- 137 Divinatory [graphology](https://en.wikipedia.org/wiki/Graphology "Graphology")
+	- 138 [Physiognomy](https://en.wikipedia.org/wiki/Physiognomy "Physiognomy")
+	- 139 [Phrenology](https://en.wikipedia.org/wiki/Phrenology "Phrenology")
+- **140 [Philosophical schools of thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions "Category:Philosophical schools and traditions")**
+	- 140 Specific philosophical schools and viewpoints
+	- 141 [Idealism](https://en.wikipedia.org/wiki/Idealism "Idealism") and related systems and doctrines
+	- 142 [Critical philosophy](https://en.wikipedia.org/wiki/Critical_philosophy "Critical philosophy")
+	- 143 [Bergsonism](https://en.wikipedia.org/wiki/Henri_Bergson "Henri Bergson") and [intuitionism](https://en.wikipedia.org/wiki/Intuitionism "Intuitionism")
+	- 144 [Humanism](https://en.wikipedia.org/wiki/Outline_of_humanism "Outline of humanism") and related systems and doctrines
+	- 145 Sensationalism
+	- 146 [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy) "Naturalism (philosophy)") and related systems and doctrines
+	- 147 [Pantheism](https://en.wikipedia.org/wiki/Pantheism "Pantheism") and related systems and doctrines
+	- 148 [Dogmatism](https://en.wikipedia.org/wiki/Dogmatism "Dogmatism"), [eclecticism](https://en.wikipedia.org/wiki/Eclecticism "Eclecticism"), liberalism, syncretism, and [traditionalism](https://en.wikipedia.org/wiki/Traditionalist_School "Traditionalist School")
+	- 149 Other philosophical systems and doctrines
+- **150 [Psychology](https://en.wikipedia.org/wiki/Outline_of_psychology "Outline of psychology")**
+	- 150 Psychology
+	- 152 Sensory [perception](https://en.wikipedia.org/wiki/Perception "Perception"), [movement](https://en.wikipedia.org/wiki/Motion_(physics) "Motion (physics)"), [emotions](https://en.wikipedia.org/wiki/Emotion "Emotion"), and physiological drives
+	- 153 Conscious mental processes and [intelligence](https://en.wikipedia.org/wiki/Intelligence "Intelligence")
+	- 154 [Subconscious](https://en.wikipedia.org/wiki/Subconscious "Subconscious") and [altered states](https://en.wikipedia.org/wiki/Altered_state_of_consciousness "Altered state of consciousness") and processes
+	- 155 [Differential](https://en.wikipedia.org/wiki/Differential_psychology "Differential psychology") and [developmental psychology](https://en.wikipedia.org/wiki/Developmental_psychology "Developmental psychology")
+	- 156 [Comparative psychology](https://en.wikipedia.org/wiki/Comparative_psychology "Comparative psychology")
+	- 158 [Applied psychology](https://en.wikipedia.org/wiki/Applied_psychology "Applied psychology")
+- **160 Philosophical [logic](https://en.wikipedia.org/wiki/Logic "Logic")**
+	- 160 Philosophical logic
+	- 161 [Induction](https://en.wikipedia.org/wiki/Inductive_reasoning "Inductive reasoning")
+	- 162 [Deduction](https://en.wikipedia.org/wiki/Deductive_reasoning "Deductive reasoning")
+	- 163–164 *Not assigned or no longer used*
+	- 165 [Fallacies](https://en.wikipedia.org/wiki/Fallacy "Fallacy") and sources of error
+	- 166 [Syllogisms](https://en.wikipedia.org/wiki/Syllogism "Syllogism")
+	- 167 [Hypotheses](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis")
+	- 168 [Argument](https://en.wikipedia.org/wiki/Logical_argument "Logical argument") and [persuasion](https://en.wikipedia.org/wiki/Persuasion "Persuasion")
+	- 169 [Analogy](https://en.wikipedia.org/wiki/Analogy "Analogy")
+- **170 [Ethics](https://en.wikipedia.org/wiki/Ethics "Ethics")**
+	- 170 Ethics (Moral philosophy)
+	- 171 Ethical systems
+	- 172 Political ethics
+	- 173 Ethics of [family relationships](https://en.wikipedia.org/wiki/Family_relationships "Family relationships")
+	- 174 Occupational ethics
+	- 175 Ethics of [recreation](https://en.wikipedia.org/wiki/Recreation "Recreation"), [leisure](https://en.wikipedia.org/wiki/Leisure "Leisure"), public performances, communication
+	- 176 Ethics of [sex](https://en.wikipedia.org/wiki/Sex "Sex") and [reproduction](https://en.wikipedia.org/wiki/Reproduction "Reproduction")
+	- 177 Ethics of [social relations](https://en.wikipedia.org/wiki/Social_relations "Social relations")
+	- 178 Ethics of [consumption](https://en.wikipedia.org/wiki/Consumption_(economics) "Consumption (economics)")
+	- 179 Other ethical norms
+- **180 [Ancient](https://en.wikipedia.org/wiki/Ancient_philosophy "Ancient philosophy"), [medieval](https://en.wikipedia.org/wiki/Medieval_philosophy "Medieval philosophy"), and [Eastern philosophy](https://en.wikipedia.org/wiki/Eastern_philosophy "Eastern philosophy")**
+	- 180 Ancient, medieval, eastern philosophy
+	- 181 Eastern philosophy
+	- 182 [Pre-Socratic Greek philosophies](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy "Pre-Socratic philosophy")
+	- 183 Sophistic, [Socratic](https://en.wikipedia.org/wiki/Socrates "Socrates"), related Greek philosophies
+	- 184 [Platonic philosophy](https://en.wikipedia.org/wiki/Platonic_philosophy "Platonic philosophy")
+	- 185 [Aristotelian philosophy](https://en.wikipedia.org/wiki/Aristotelian_philosophy "Aristotelian philosophy")
+	- 186 [Skeptic](https://en.wikipedia.org/wiki/Philosophical_skepticism "Philosophical skepticism") and [Neoplatonic philosophies](https://en.wikipedia.org/wiki/Neoplatonism "Neoplatonism")
+	- 187 [Epicurean philosophy](https://en.wikipedia.org/wiki/Epicureanism "Epicureanism")
+	- 188 [Stoic philosophy](https://en.wikipedia.org/wiki/Stoicism "Stoicism")
+	- 189 Medieval Western philosophy
+- **190 Modern [Western philosophy](https://en.wikipedia.org/wiki/Western_philosophy "Western philosophy")** ([19th-century](https://en.wikipedia.org/wiki/19th-century_philosophy "19th-century philosophy"), [20th-century](https://en.wikipedia.org/wiki/20th-century_philosophy "20th-century philosophy")
+
+## Class 200 – Religion\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=3 "Edit section: Class 200 – Religion")\]
+
+- **200 [Religion](https://en.wikipedia.org/wiki/Outline_of_religion "Outline of religion")**
+- **210 Philosophy and theory of religion**
+	- 210 Philosophy and theory of religion
+	- 211 [Concepts of God](https://en.wikipedia.org/wiki/Conceptions_of_God "Conceptions of God")
+	- 212 [Existence](https://en.wikipedia.org/wiki/Existence_of_God "Existence of God"), ways of knowing God, attributes of God
+	- 213 [Creation](https://en.wikipedia.org/wiki/Creation_myth "Creation myth")
+	- 214 [Theodicy](https://en.wikipedia.org/wiki/Theodicy "Theodicy")
+	- 215 [Science and religion](https://en.wikipedia.org/wiki/Relationship_between_religion_and_science "Relationship between religion and science")
+	- 218 Humankind
+- **220 The [Bible](https://en.wikipedia.org/wiki/Bible "Bible")**
+- **230 Christianity**
+
+## \[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=4 "Edit section: Class 300 – Social sciences")\]
+
+- **300 [Social sciences](https://en.wikipedia.org/wiki/Social_science "Social science")**, sociology and anthropology
+	- 300 Social sciences
+	- 301 [Sociology](https://en.wikipedia.org/wiki/Sociology "Sociology") and [anthropology](https://en.wikipedia.org/wiki/Anthropology "Anthropology")
+	- 302 [Social interaction](https://en.wikipedia.org/wiki/Social_interaction "Social interaction")
+	- 303 Social processes
+	- 304 Factors affecting social behavior
+	- 305 [Groups of people](https://en.wikipedia.org/wiki/Social_group "Social group")
+	- 306 [Culture](https://en.wikipedia.org/wiki/Culture "Culture") and [institutions](https://en.wikipedia.org/wiki/Institution "Institution")
+	- 307 [Communities](https://en.wikipedia.org/wiki/Communities "Communities")
+- **310 Statistics**
+	- 310 Collections of general statistics
+- **320 [Political science](https://en.wikipedia.org/wiki/Outline_of_political_science "Outline of political science")**
+	- 320 Political science (Politics and government)
+	- 321 [Systems of governments](https://en.wikipedia.org/wiki/Form_of_government "Form of government") and states
+	- 322 Relation of [state](https://en.wikipedia.org/wiki/Sovereign_state "Sovereign state") to organized groups and their members
+	- 323 [Civil](https://en.wikipedia.org/wiki/Civil_rights "Civil rights") and [political rights](https://en.wikipedia.org/wiki/Political_rights "Political rights")
+	- 324 The [political](https://en.wikipedia.org/wiki/Politics "Politics") process
+	- 325 International [migration](https://en.wikipedia.org/wiki/Human_migration "Human migration") and [colonization](https://en.wikipedia.org/wiki/Colonisation "Colonisation")
+	- 326 [Slavery](https://en.wikipedia.org/wiki/Slavery "Slavery") and [emancipation](https://en.wikipedia.org/wiki/Political_emancipation "Political emancipation")
+	- 327 [International relations](https://en.wikipedia.org/wiki/International_relations "International relations")
+	- 328 The [legislative](https://en.wikipedia.org/wiki/Legislation "Legislation") process
+- **330 [Economics](https://en.wikipedia.org/wiki/Outline_of_economics "Outline of economics")**
+	- 330 Economics
+	- 331 [Labor economics](https://en.wikipedia.org/wiki/Labor_economics "Labor economics")
+	- 332 [Financial economics](https://en.wikipedia.org/wiki/Financial_economics "Financial economics")
+	- 333 [Economics of land](https://en.wikipedia.org/wiki/Land_economics "Land economics") and energy
+	- 334 [Cooperatives](https://en.wikipedia.org/wiki/Cooperative "Cooperative")
+	- 335 [Socialism](https://en.wikipedia.org/wiki/Socialism "Socialism") and related systems
+	- 336 [Public finance](https://en.wikipedia.org/wiki/Public_finance "Public finance")
+	- 337 [International economics](https://en.wikipedia.org/wiki/International_economics "International economics")
+	- 338 [Production](https://en.wikipedia.org/wiki/Economic_production "Economic production")
+	- 339 [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics "Macroeconomics") and related topics
+- **340 [Law](https://en.wikipedia.org/wiki/Outline_of_law "Outline of law")**
+	- 340 Law
+	- 341 [Law of nations](https://en.wikipedia.org/wiki/International_law "International law")
+	- 342 [Constitutional](https://en.wikipedia.org/wiki/Constitutional_law "Constitutional law") and [administrative law](https://en.wikipedia.org/wiki/Administrative_law "Administrative law")
+	- 343 [Military](https://en.wikipedia.org/wiki/Military_law "Military law"), defense, public property, public finance, [tax](https://en.wikipedia.org/wiki/Tax_law "Tax law"), commerce ([trade](https://en.wikipedia.org/wiki/Trade_law "Trade law")), [industrial law](https://en.wikipedia.org/wiki/Industrial_law "Industrial law")
+	- 344 [Labor](https://en.wikipedia.org/wiki/Labor_law "Labor law"), social service, education, cultural law
+	- 345 [Criminal law](https://en.wikipedia.org/wiki/Criminal_law "Criminal law")
+	- 346 [Private law](https://en.wikipedia.org/wiki/Private_law "Private law")
+	- 347 [Procedure](https://en.wikipedia.org/wiki/Civil_procedure "Civil procedure") and [courts](https://en.wikipedia.org/wiki/Court "Court")
+	- 348 [Laws](https://en.wikipedia.org/wiki/Law "Law"), [regulations](https://en.wikipedia.org/wiki/Regulation "Regulation"), [cases](https://en.wikipedia.org/wiki/Court_case "Court case")
+	- 349 [Law of specific jurisdictions, areas](https://en.wikipedia.org/wiki/Category:Law_by_country "Category:Law by country"), socioeconomic regions, regional intergovernmental organizations
+- **350 [Public administration](https://en.wikipedia.org/wiki/Public_administration "Public administration") and [military science](https://en.wikipedia.org/wiki/Military_science "Military science")**
+	- 350 Public administration and military science
+	- 351 Public administration
+	- 352 General considerations of public administration
+	- 353 Specific fields of public administration
+	- 354 Public administration of economy and environment
+	- 355 [Military science](https://en.wikipedia.org/wiki/Outline_of_military_science_and_technology "Outline of military science and technology")
+	- 356 [Foot forces](https://en.wikipedia.org/wiki/Infantry "Infantry") and warfare
+	- 357 [Mounted forces](https://en.wikipedia.org/wiki/Mounted_infantry "Mounted infantry") and warfare
+	- 358 [Air](https://en.wikipedia.org/wiki/Air_force "Air force") and other specialized forces and warfare; engineering and related services
+	- 359 [Sea forces](https://en.wikipedia.org/wiki/Navy "Navy") and warfare
+- **360 Social problems and [social services](https://en.wikipedia.org/wiki/Social_services "Social services")**
+	- 360 Social problems and services; associations
+	- 364 [Criminology](https://en.wikipedia.org/wiki/Criminology "Criminology")
+	- 365 [Penal](https://en.wikipedia.org/wiki/Penal_system "Penal system") and related institutions like prison
+- **370 [Education](https://en.wikipedia.org/wiki/Outline_of_education "Outline of education")**
+	- 370 Education
+	- 371 Schools and their activities, [special education](https://en.wikipedia.org/wiki/Special_education "Special education")
+	- 372 Primary education ([elementary education](https://en.wikipedia.org/wiki/Elementary_education "Elementary education"))
+	- 373 [Secondary education](https://en.wikipedia.org/wiki/Secondary_education "Secondary education")
+	- 374 [Adult education](https://en.wikipedia.org/wiki/Adult_education "Adult education")
+	- 375 [Curricula](https://en.wikipedia.org/wiki/Curriculum "Curriculum")
+	- 378 [Higher education](https://en.wikipedia.org/wiki/Higher_education "Higher education") (Tertiary education)
+	- 379 Public policy issues in education
+- **380 [Commerce](https://en.wikipedia.org/wiki/Commerce "Commerce"), [communications](https://en.wikipedia.org/wiki/Outline_of_communication "Outline of communication") and [transportation](https://en.wikipedia.org/wiki/Outline_of_transport "Outline of transport")**
+	- 380 Commerce, communications transportation
+	- 381 Commerce (Trade)
+	- 382 [International commerce](https://en.wikipedia.org/wiki/International_trade "International trade") (Foreign trade)
+	- 383 [Postal communication](https://en.wikipedia.org/wiki/Postal_system "Postal system")
+	- 384 Communications
+	- 385 [Railroad transportation](https://en.wikipedia.org/wiki/Rail_transportation "Rail transportation")
+	- 386 Inland [waterway](https://en.wikipedia.org/wiki/Waterway "Waterway") and [ferry](https://en.wikipedia.org/wiki/Ferry "Ferry") transportation
+	- 387 [Water](https://en.wikipedia.org/wiki/Ship_transport "Ship transport"), [air](https://en.wikipedia.org/wiki/Aviation "Aviation"), [space transportation](https://en.wikipedia.org/wiki/Space_transport "Space transport")
+	- 388 Transportation
+	- 389 [Metrology](https://en.wikipedia.org/wiki/Metrology "Metrology") and [standardization](https://en.wikipedia.org/wiki/Standardization "Standardization")
+- **390 [Customs](https://en.wikipedia.org/wiki/Convention_(norm) "Convention (norm)"), [etiquette](https://en.wikipedia.org/wiki/Etiquette "Etiquette") and [folklore](https://en.wikipedia.org/wiki/Folklore "Folklore")**
+	- 390 Customs, etiquette, folklore
+	- 391 [Costume](https://en.wikipedia.org/wiki/Costume "Costume") and [personal appearance](https://en.wikipedia.org/wiki/Personal_appearance "Personal appearance")
+	- 392 Customs of life cycle and domestic life
+	- 393 [Death customs](https://en.wikipedia.org/wiki/Funeral "Funeral")
+	- 394 [General customs](https://en.wikipedia.org/wiki/Norm_(sociology) "Norm (sociology)")
+	- 395 Etiquette ([Manners](https://en.wikipedia.org/wiki/Manners "Manners"))
+	- 398 [Folklore](https://en.wikipedia.org/wiki/Folklore "Folklore")
+	- 399 Customs of war and [diplomacy](https://en.wikipedia.org/wiki/Diplomacy "Diplomacy")
+
+## Class 400 – Language\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=5 "Edit section: Class 400 – Language")\]
+
+- **400 [Language](https://en.wikipedia.org/wiki/Language "Language")**
+	- 400 Language
+	- 401 [Philosophy](https://en.wikipedia.org/wiki/Philosophy_of_language "Philosophy of language") and theory, international languages
+	- 402 Miscellany
+	- 403 [Dictionaries](https://en.wikipedia.org/wiki/Dictionary "Dictionary"), [encyclopedias](https://en.wikipedia.org/wiki/Encyclopedia "Encyclopedia"), concordances
+	- 404 Special topics of language
+	- 406 Organizations and management
+	- 407 [Education](https://en.wikipedia.org/wiki/Language_education "Language education"), research, related topics
+	- 408 Groups of people
+	- 409 Geographic treatment and biography
+- **410 [Linguistics](https://en.wikipedia.org/wiki/Outline_of_linguistics "Outline of linguistics")**
+	- 410 Linguistics
+	- 411 [Writing systems](https://en.wikipedia.org/wiki/Writing_system "Writing system") of standard forms of languages
+	- 412 [Etymology](https://en.wikipedia.org/wiki/Etymology "Etymology") of standard forms of languages
+	- 413 [Dictionaries](https://en.wikipedia.org/wiki/Lexicology "Lexicology") of standard forms of languages
+	- 414 [Phonology](https://en.wikipedia.org/wiki/Phonology "Phonology") and phonetics of standard forms of languages
+	- 415 [Grammar](https://en.wikipedia.org/wiki/Grammar "Grammar") of standard forms of languages
+	- 417 [Dialectology](https://en.wikipedia.org/wiki/Dialectology "Dialectology") and [historical linguistics](https://en.wikipedia.org/wiki/Historical_linguistics "Historical linguistics")
+	- 418 Standard usage ([Prescriptive linguistics](https://en.wikipedia.org/wiki/Linguistic_prescription "Linguistic prescription"))
+	- 419 [Sign languages](https://en.wikipedia.org/wiki/Sign_language "Sign language")
+- **420 [English](https://en.wikipedia.org/wiki/English_language "English language") and [Old English](https://en.wikipedia.org/wiki/Old_English_language "Old English language") languages**
+	- 420 English and [Old English (Anglo-Saxon)](https://en.wikipedia.org/wiki/Old_English "Old English")
+	- 421 [Writing system](https://en.wikipedia.org/wiki/English_spelling "English spelling"), [phonology](https://en.wikipedia.org/wiki/English_phonology "English phonology"), phonetics of standard English
+	- 422 Etymology of standard English
+	- 423 Dictionaries of standard English
+	- 424 *No longer used — formerly "English [thesauruses](https://en.wikipedia.org/wiki/Thesaurus "Thesaurus")"*
+	- 425 [Grammar](https://en.wikipedia.org/wiki/English_grammar "English grammar") of standard English
+	- 426 *No longer used — formerly "[English prosodies](https://en.wikipedia.org/w/index.php?title=English_prosodies&action=edit&redlink=1 "English prosodies (page does not exist)")"*
+	- 427 Historical and geographical variations, modern nongeographic variations of English
+	- 428 Standard English usage ([Prescriptive linguistics](https://en.wikipedia.org/wiki/Prescriptive_linguistics "Prescriptive linguistics"))
+	- 429 [Old English](https://en.wikipedia.org/wiki/Old_English "Old English") (Anglo-Saxon)
+- **430 [German](https://en.wikipedia.org/wiki/German_language "German language") and related languages**
+	- 430 German and related languages
+	- 431 [Writing systems](https://en.wikipedia.org/wiki/German_orthography "German orthography"), [phonology](https://en.wikipedia.org/wiki/German_phonology "German phonology"), phonetics of standard German
+	- 432 Etymology of standard German
+	- 433 Dictionaries of standard German
+	- 434 *Not assigned or no longer used*
+	- 435 [Grammar](https://en.wikipedia.org/wiki/German_grammar "German grammar") of standard German
+	- 436 *Not assigned or no longer used*
+	- 437 Historical and geographic variations, modern nongeographic variations of German
+	- 438 Standard German usage (Prescriptive linguistics)
+	- 439 Other Germanic languages
+- **440 [French](https://en.wikipedia.org/wiki/French_language "French language") and related languages**
+	- 440 French and related Romance languages
+	- 441 [Writing systems](https://en.wikipedia.org/wiki/French_orthography "French orthography"), [phonology](https://en.wikipedia.org/wiki/French_phonology "French phonology"), phonetics of standard French
+	- 442 Etymology of standard French
+	- 443 Dictionaries of standard French
+	- 444 *Not assigned or no longer used*
+	- 445 [Grammar](https://en.wikipedia.org/wiki/French_grammar "French grammar") of standard French
+	- 446 *Not assigned or no longer used*
+	- 447 Historical and geographic variations, modern nongeographic variations of French
+	- 448 Standard French usage (Prescriptive linguistics)
+	- 449 Occitan [Catalan](https://en.wikipedia.org/wiki/Catalan_language "Catalan language"), [Franco-Provençal](https://en.wikipedia.org/wiki/Proven%C3%A7al_language "Provençal language")
+- **450 [Italian](https://en.wikipedia.org/wiki/Italian_language "Italian language"), [Romanian](https://en.wikipedia.org/wiki/Romanian_language "Romanian language") and related languages**
+	- 450 Italian, [Dalmatian](https://en.wikipedia.org/wiki/Dalmatian_language "Dalmatian language"), Romanian, [Rhaetian](https://en.wikipedia.org/wiki/Rhaetian_language "Rhaetian language"), [Sardinian](https://en.wikipedia.org/wiki/Sardinian_language "Sardinian language"), [Corsican](https://en.wikipedia.org/wiki/Corsican_language "Corsican language")
+	- 451 Writing systems, [phonology](https://en.wikipedia.org/wiki/Italian_phonology "Italian phonology"), phonetics of standard Italian
+	- 452 Etymology of standard Italian
+	- 453 Dictionaries of standard Italian
+	- 454 *Not assigned or no longer used*
+	- 455 [Grammar](https://en.wikipedia.org/wiki/Italian_grammar "Italian grammar") of standard Italian
+	- 456 *Not assigned or no longer used*
+	- 457 Historical and geographic variations, modern nongeographic variations of Italian
+	- 458 Standard Italian usage (Prescriptive linguistics)
+	- 459 Romanian, Rhaetian, Sardinian, Corsican
+- **460 [Spanish](https://en.wikipedia.org/wiki/Spanish_language "Spanish language"), [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language "Portuguese language"), Galician**
+	- 460 Spanish, Portuguese, Galician
+	- 461 [Writing systems](https://en.wikipedia.org/wiki/Spanish_orthography "Spanish orthography"), [phonology](https://en.wikipedia.org/wiki/Spanish_phonology "Spanish phonology"), phonetics of standard Spanish
+	- 462 Etymology of standard Spanish
+	- 463 Dictionaries of standard Spanish
+	- 464 *Not assigned or no longer used*
+	- 465 [Grammar](https://en.wikipedia.org/wiki/Spanish_grammar "Spanish grammar") of standard Spanish
+	- 466 *Not assigned or no longer used*
+	- 467 Historical and geographic variations, modern nongeographic variations of Spanish
+	- 468 Standard Spanish usage (Prescriptive linguistics)
+	- 469 [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language "Portuguese language")
+- **470 [Latin](https://en.wikipedia.org/wiki/Latin "Latin") and [Italic languages](https://en.wikipedia.org/wiki/Italic_languages "Italic languages")**
+	- 470 Latin and related Italic languages
+	- 471 Writing systems, phonology, phonetics of [classical Latin](https://en.wikipedia.org/wiki/Classical_Latin "Classical Latin")
+	- 472 Etymology of classical Latin
+	- 473 Dictionaries of classical Latin
+	- 474 *Not assigned or no longer used*
+	- 475 [Grammar](https://en.wikipedia.org/wiki/Latin_grammar "Latin grammar") of classical Latin
+	- 476 *Not assigned or no longer used*
+	- 477 [Old](https://en.wikipedia.org/wiki/Old_Latin "Old Latin"), postclassical, [Vulgar Latin](https://en.wikipedia.org/wiki/Vulgar_Latin "Vulgar Latin")
+	- 478 Classical Latin usage (Prescriptive linguistics)
+	- 479 Other Italic languages
+- **480 Classical and modern [Greek languages](https://en.wikipedia.org/wiki/Hellenic_languages "Hellenic languages")**
+	- 480 Classical Greek and related Hellenic languages
+	- 481 Writing systems, [phonology](https://en.wikipedia.org/wiki/Ancient_Greek_phonology "Ancient Greek phonology"), phonetics of classical Greek
+	- 482 Etymology of classical Greek
+	- 483 Dictionaries of classical Greek
+	- 484 *Not assigned or no longer used*
+	- 485 Grammar of classical Greek
+	- 486 *Not assigned or no longer used*
+	- 487 [Preclassical](https://en.wikipedia.org/w/index.php?title=Preclassical_Greek&action=edit&redlink=1 "Preclassical Greek (page does not exist)") and [postclassical Greek](https://en.wikipedia.org/w/index.php?title=Postclassical_Greek&action=edit&redlink=1 "Postclassical Greek (page does not exist)")
+	- 488 Classical Greek usage (Prescriptive linguistics)
+	- 489 Other Hellenic languages
+- **490 Other languages**
+	- 490 Other languages
+	- 491 East Indo-European and [Celtic languages](https://en.wikipedia.org/wiki/Celtic_languages "Celtic languages")
+	- 492 [Afro-Asiatic languages](https://en.wikipedia.org/wiki/Afro-Asiatic_languages "Afro-Asiatic languages")
+	- 493 Non-Semitic Afro-Asiatic languages
+	- 494 [Altic](https://en.wikipedia.org/w/index.php?title=Altic&action=edit&redlink=1 "Altic (page does not exist)"), [Uralic](https://en.wikipedia.org/wiki/Uralic "Uralic"), Hyperborean, [Dravidian languages](https://en.wikipedia.org/wiki/Dravidian_languages "Dravidian languages"), miscellaneous languages of south Asia
+	- 495 Languages of East and Southeast Asia
+	- 496 [African languages](https://en.wikipedia.org/wiki/Languages_of_Africa "Languages of Africa")
+	- 497 [North American native languages](https://en.wikipedia.org/wiki/Indigenous_languages_of_the_Americas "Indigenous languages of the Americas")
+	- 498 [South American native languages](https://en.wikipedia.org/wiki/Indigenous_languages_of_the_Americas "Indigenous languages of the Americas")
+	- 499 Non-Austronesian languages of Oceania, Austronesian languages, miscellaneous languages
+
+## Class 500 – Science\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=6 "Edit section: Class 500 – Science")\]
+
+- **500 [Science](https://en.wikipedia.org/wiki/Science "Science")**
+	- 500 [Natural sciences](https://en.wikipedia.org/wiki/Natural_sciences "Natural sciences") and mathematics
+	- 501 Philosophy and theory
+	- 502 Miscellany
+	- 503 Dictionaries, [encyclopedias](https://en.wikipedia.org/wiki/Encyclopedia "Encyclopedia"), [concordances](https://en.wikipedia.org/wiki/Concordance_(publishing) "Concordance (publishing)")
+	- 504 *Not assigned or no longer used*
+	- 505 Serial publications
+	- 506 Organizations and management
+	- 507 Education, research, related topics
+	- 508 [Natural history](https://en.wikipedia.org/wiki/Natural_history "Natural history")
+	- 509 [History](https://en.wikipedia.org/wiki/History_of_science "History of science"), [geographic treatment](https://en.wikipedia.org/wiki/Category:Science_and_technology_by_country "Category:Science and technology by country"), biography
+- **510 [Mathematics](https://en.wikipedia.org/wiki/Topic_outline_of_mathematics "Topic outline of mathematics")**
+	- 510 Mathematics
+	- 511 General principles of mathematics
+	- 512 [Algebra](https://en.wikipedia.org/wiki/Topic_outline_of_algebra "Topic outline of algebra")
+	- 513 [Arithmetic](https://en.wikipedia.org/wiki/Topic_outline_of_arithmetic "Topic outline of arithmetic")
+	- 514 [Topology](https://en.wikipedia.org/wiki/Topology "Topology")
+	- 515 [Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis "Mathematical analysis")
+	- 516 [Geometry](https://en.wikipedia.org/wiki/Topic_outline_of_geometry "Topic outline of geometry")
+	- 517 *Not assigned or no longer used*
+	- 518 [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis "Numerical analysis")
+	- 519 [Probabilities](https://en.wikipedia.org/wiki/Probabilities "Probabilities") and [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics "Applied mathematics")
+- **520 [Astronomy](https://en.wikipedia.org/wiki/Outline_of_astronomy "Outline of astronomy")**
+	- 520 [Astronomy](https://en.wikipedia.org/wiki/Astronomy "Astronomy") and allied sciences
+	- 521 [Celestial mechanics](https://en.wikipedia.org/wiki/Celestial_mechanics "Celestial mechanics")
+	- 522 Techniques, procedures, apparatus, equipment, materials
+	- 523 Specific [celestial bodies](https://en.wikipedia.org/wiki/Celestial_bodies "Celestial bodies") and phenomena
+	- 524 *Not assigned or no longer used*
+	- 525 [Earth](https://en.wikipedia.org/wiki/Earth "Earth") (Astronomical geography)
+	- 526 Mathematical geography
+	- 527 [Celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation "Celestial navigation")
+	- 528 [Ephemerides](https://en.wikipedia.org/wiki/Ephemerides "Ephemerides")
+	- 529 [Chronology](https://en.wikipedia.org/wiki/Chronology "Chronology")
+- **530 [Physics](https://en.wikipedia.org/wiki/Outline_of_physics "Outline of physics")**
+	- 530 Physics
+	- 531 Classical [mechanics](https://en.wikipedia.org/wiki/Mechanics "Mechanics")
+	- 532 [Fluid mechanics](https://en.wikipedia.org/wiki/Fluid_mechanics "Fluid mechanics")
+	- 533 [Pneumatics](https://en.wikipedia.org/wiki/Pneumatics "Pneumatics") (Gas mechanics)
+	- 534 [Sound](https://en.wikipedia.org/wiki/Sound "Sound") and related [vibrations](https://en.wikipedia.org/wiki/Vibrations "Vibrations")
+	- 535 [Light](https://en.wikipedia.org/wiki/Light "Light") and related radiation
+	- 536 [Heat](https://en.wikipedia.org/wiki/Heat "Heat")
+	- 537 [Electricity](https://en.wikipedia.org/wiki/Electricity "Electricity") and [electronics](https://en.wikipedia.org/wiki/Electronics "Electronics")
+	- 538 [Magnetism](https://en.wikipedia.org/wiki/Magnetism "Magnetism")
+	- 539 [Modern physics](https://en.wikipedia.org/wiki/Modern_physics "Modern physics")
+- **540 [Chemistry](https://en.wikipedia.org/wiki/Outline_of_chemistry "Outline of chemistry")**
+	- 540 Chemistry and allied sciences
+	- 541 [Physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry "Physical chemistry")
+	- 542 Techniques, procedures, apparatus, equipment, materials
+	- 543 [Analytical chemistry](https://en.wikipedia.org/wiki/Analytical_chemistry "Analytical chemistry")
+	- 544 *No longer used — formerly "[Qualitative analysis](https://en.wikipedia.org/wiki/Qualitative_inorganic_analysis "Qualitative inorganic analysis")"*
+	- 545 *No longer used — formerly "[Quantitative analysis](https://en.wikipedia.org/wiki/Quantitative_analysis_(chemistry) "Quantitative analysis (chemistry)")"*
+	- 546 [Inorganic chemistry](https://en.wikipedia.org/wiki/Inorganic_chemistry "Inorganic chemistry")
+	- 547 [Organic chemistry](https://en.wikipedia.org/wiki/Organic_chemistry "Organic chemistry")
+	- 548 [Crystallography](https://en.wikipedia.org/wiki/Crystallography "Crystallography")
+	- 549 [Mineralogy](https://en.wikipedia.org/wiki/Mineralogy "Mineralogy")
+- **550 [Earth sciences](https://en.wikipedia.org/wiki/Earth_sciences "Earth sciences") and [geology](https://en.wikipedia.org/wiki/Geology "Geology")**
+	- 550 Earth sciences
+	- 551 [Geology](https://en.wikipedia.org/wiki/Outline_of_geology "Outline of geology"), [hydrology](https://en.wikipedia.org/wiki/Hydrology "Hydrology"), [meteorology](https://en.wikipedia.org/wiki/Meteorology "Meteorology")
+	- 552 [Petrology](https://en.wikipedia.org/wiki/Petrology "Petrology")
+	- 553 [Economic geology](https://en.wikipedia.org/wiki/Economic_geology "Economic geology")
+	- 554 Earth sciences of Europe
+	- 555 Earth sciences of Asia
+	- 556 Earth sciences of Africa
+	- 557 Earth sciences of North America
+	- 558 Earth sciences of South America
+	- 559 Earth sciences of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds
+- **560 [Fossils](https://en.wikipedia.org/wiki/Fossil "Fossil") and prehistoric life**
+	- 560 [Paleontology](https://en.wikipedia.org/wiki/Paleontology "Paleontology")
+	- 561 [Paleobotany](https://en.wikipedia.org/wiki/Paleobotany "Paleobotany"), fossil microorganisms
+	- 562 Fossil invertebrates
+	- 563 Miscellaneous fossil marine and seashore invertebrates
+	- 564 Fossil Mollusca and Molluscoidea
+	- 565 Fossil Arthropoda
+	- 566 Fossil Chordata
+	- 567 Fossil cold-blooded vertebrates
+	- 568 Fossil Aves (birds)
+	- 569 Fossil Mammalia
+- **570 [Biology](https://en.wikipedia.org/wiki/Biology "Biology")**
+	- 570 Biology
+	- 571 [Physiology](https://en.wikipedia.org/wiki/Physiology "Physiology") and related subjects
+	- 572 [Biochemistry](https://en.wikipedia.org/wiki/Outline_of_biochemistry "Outline of biochemistry")
+	- 573 Specific physiological systems in animals, regional histology and physiology in animals
+	- 574 *Not assigned or no longer used*
+	- 575 Specific parts of and [physiological systems in plants](https://en.wikipedia.org/wiki/Plant_physiology "Plant physiology")
+	- 576 [Genetics](https://en.wikipedia.org/wiki/Outline_of_genetics "Outline of genetics") and [evolution](https://en.wikipedia.org/wiki/Evolution "Evolution")
+	- 577 [Ecology](https://en.wikipedia.org/wiki/Outline_of_ecology "Outline of ecology")
+	- 578 [Natural history](https://en.wikipedia.org/wiki/Natural_history "Natural history") of [organisms](https://en.wikipedia.org/wiki/Organism "Organism") and related subjects
+	- 579 Natural history of [microorganisms](https://en.wikipedia.org/wiki/Microbiology "Microbiology"), [fungi](https://en.wikipedia.org/wiki/Fungus "Fungus"), [algae](https://en.wikipedia.org/wiki/Algae "Algae")
+- **580 Plants**
+	- 580 Plants
+	- 581 Specific topics in natural history of [plants](https://en.wikipedia.org/wiki/Plant "Plant")
+	- 582 Plants noted for specific vegetative characteristics and [flowers](https://en.wikipedia.org/wiki/Flower "Flower")
+	- 583 Magnoliopsida ([Dicotyledones](https://en.wikipedia.org/wiki/Dicotyledon "Dicotyledon"))
+	- 584 Liliopsida ([Monocotyledones](https://en.wikipedia.org/wiki/Monocotyledon "Monocotyledon"))
+	- 585 Pinophyta ([Gymnosperms](https://en.wikipedia.org/wiki/Gymnosperm "Gymnosperm"))
+	- 586 [Cryptogamia](https://en.wikipedia.org/wiki/Cryptogams "Cryptogams") (Seedless plants)
+	- 587 [Pteridophyta](https://en.wikipedia.org/wiki/Pteridophyta "Pteridophyta")
+	- 588 [Bryophyta](https://en.wikipedia.org/wiki/Bryophyte "Bryophyte")
+	- 589 *No longer used—formerly [Forestry](https://en.wikipedia.org/wiki/Forestry "Forestry")*
+- **590 [Animals](https://en.wikipedia.org/wiki/Animal "Animal") ([Zoology](https://en.wikipedia.org/wiki/Zoology "Zoology"))**
+	- 590 Animals
+	- 591 Specific topics in natural history of animals
+	- 592 [Invertebrates](https://en.wikipedia.org/wiki/Invertebrate "Invertebrate")
+	- 593 Miscellaneous marine and seashore invertebrates
+	- 594 [Mollusca](https://en.wikipedia.org/wiki/Mollusc "Mollusc") and Molluscoidea
+	- 595 [Arthropoda](https://en.wikipedia.org/wiki/Arthropoda "Arthropoda")
+	- 596 [Chordata](https://en.wikipedia.org/wiki/Chordata "Chordata")
+	- 597 [Cold-blooded](https://en.wikipedia.org/wiki/Ectotherm "Ectotherm") vertebrates
+	- 598 [Aves](https://en.wikipedia.org/wiki/Bird "Bird") (Birds)
+	- 599 [Mammalia](https://en.wikipedia.org/wiki/Mammal "Mammal") (Mammals)
+
+## Class 600 – Technology\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=7 "Edit section: Class 600 – Technology")\]
+
+- **600 [Technology](https://en.wikipedia.org/wiki/Outline_of_technology "Outline of technology")**
+	- 600 Technology (Applied sciences)
+	- 601 Philosophy and theory
+	- 602 Miscellany
+	- 603 Dictionaries, encyclopedias, concordances
+	- 604 Technical drawing, hazardous materials technology; groups of people
+	- 605 Serial publications
+	- 606 Organizations
+	- 607 Education, research, related topics
+	- 608 [Patents](https://en.wikipedia.org/wiki/Patent "Patent")
+	- 609 [History](https://en.wikipedia.org/wiki/History_of_technology "History of technology"), geographic treatment, biography
+- **610 [Medicine](https://en.wikipedia.org/wiki/Outline_of_medicine "Outline of medicine") and [health](https://en.wikipedia.org/wiki/Health "Health")**
+	- 610 Medicine and health
+	- 611 [Human anatomy](https://en.wikipedia.org/wiki/Outline_of_human_anatomy "Outline of human anatomy"), [cytology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), [histology](https://en.wikipedia.org/wiki/Histology "Histology")
+	- 612 [Human physiology](https://en.wikipedia.org/wiki/Human_physiology "Human physiology")
+	- 613 Personal health and safety
+	- 614 [Forensic medicine](https://en.wikipedia.org/wiki/Forensic_medicine "Forensic medicine"); incidence of injuries, wounds, disease; public preventive medicine
+	- 615 [Pharmacology](https://en.wikipedia.org/wiki/Pharmacology "Pharmacology") and [therapeutics](https://en.wikipedia.org/wiki/Therapeutics "Therapeutics")
+	- 616 [Diseases](https://en.wikipedia.org/wiki/Diseases "Diseases")
+	- 617 [Surgery](https://en.wikipedia.org/wiki/Surgery "Surgery"), regional medicine, [dentistry](https://en.wikipedia.org/wiki/Dentistry "Dentistry"), [ophthalmology](https://en.wikipedia.org/wiki/Ophthalmology "Ophthalmology"), [otology](https://en.wikipedia.org/wiki/Otology "Otology"), [audiology](https://en.wikipedia.org/wiki/Audiology "Audiology")
+	- 618 [Gynecology](https://en.wikipedia.org/wiki/Gynecology "Gynecology"), obstetrics, pediatrics, geriatrics
+	- 619 *No longer used—formerly [Experimental medicine](https://en.wikipedia.org/wiki/Experimental_medicine "Experimental medicine")*
+- **620 [Engineering](https://en.wikipedia.org/wiki/Outline_of_engineering "Outline of engineering")**
+	- 620 Engineering and applied operations
+	- 621 [Applied physics](https://en.wikipedia.org/wiki/Applied_physics "Applied physics")
+	- 622 [Mining](https://en.wikipedia.org/wiki/Outline_of_mining "Outline of mining") and related operations
+	- 623 [Military](https://en.wikipedia.org/wiki/Military_engineer "Military engineer") and [nautical engineering](https://en.wikipedia.org/wiki/Nautical_engineering "Nautical engineering")
+	- 624 [Civil engineering](https://en.wikipedia.org/wiki/Civil_engineering "Civil engineering")
+	- 625 Engineering of [railroads](https://en.wikipedia.org/wiki/Railroad "Railroad"), [roads](https://en.wikipedia.org/wiki/Road "Road")
+	- 626 *Not assigned or no longer used*
+	- 627 [Hydraulic engineering](https://en.wikipedia.org/wiki/Hydraulic_engineering "Hydraulic engineering")
+	- 628 [Sanitary engineering](https://en.wikipedia.org/wiki/Sanitary_engineering "Sanitary engineering")
+	- 629 Other branches of engineering
+- **630 [Agriculture](https://en.wikipedia.org/wiki/List_of_basic_agriculture_topics "List of basic agriculture topics")**
+	- 630 Agriculture and related technologies
+	- 631 Specific techniques; apparatus, [equipment](https://en.wikipedia.org/wiki/Category:Agricultural_machinery "Category:Agricultural machinery"), materials
+	- 632 Plant injuries, [diseases](https://en.wikipedia.org/wiki/Category:Plant_pathogens_and_diseases "Category:Plant pathogens and diseases"), [pests](https://en.wikipedia.org/wiki/Pest_(organism) "Pest (organism)")
+	- 633 [Field](https://en.wikipedia.org/wiki/Field_(agriculture) "Field (agriculture)") and [plantation](https://en.wikipedia.org/wiki/Plantation "Plantation") [crops](https://en.wikipedia.org/wiki/Crop "Crop")
+	- 634 [Orchards](https://en.wikipedia.org/wiki/Orchard "Orchard"), [fruits](https://en.wikipedia.org/wiki/Fruit "Fruit"), [forestry](https://en.wikipedia.org/wiki/Forestry "Forestry")
+	- 635 Garden crops ([Horticulture](https://en.wikipedia.org/wiki/Horticulture "Horticulture"))
+	- 636 [Animal husbandry](https://en.wikipedia.org/wiki/Animal_husbandry "Animal husbandry")
+	- 637 Processing [dairy](https://en.wikipedia.org/wiki/Dairy "Dairy") and related products
+	- 638 Insect culture
+	- 639 [Hunting](https://en.wikipedia.org/wiki/Hunting "Hunting"), [fishing](https://en.wikipedia.org/wiki/Fishing "Fishing"), [conservation](https://en.wikipedia.org/wiki/Wildlife_conservation "Wildlife conservation"), related technologies
+- **640 Home and family management**
+	- 640 Home and family management
+	- 641 [Food](https://en.wikipedia.org/wiki/Food "Food") and [drink](https://en.wikipedia.org/wiki/Drink "Drink")
+	- 642 [Meals](https://en.wikipedia.org/wiki/Meal "Meal") and table service
+	- 643 [Housing](https://en.wikipedia.org/wiki/House "House") and household equipment
+	- 644 [Household](https://en.wikipedia.org/wiki/Household "Household") utilities
+	- 645 [Household furnishings](https://en.wikipedia.org/wiki/Furniture "Furniture")
+	- 646 [Sewing](https://en.wikipedia.org/wiki/Sewing "Sewing"), [clothing](https://en.wikipedia.org/wiki/Clothing "Clothing"), management of personal and family life
+	- 647 [Management of public households](https://en.wikipedia.org/wiki/Household_management "Household management") (Institutional housekeeping)
+	- 648 [Housekeeping](https://en.wikipedia.org/wiki/Household_chore "Household chore")
+	- 649 [Child rearing](https://en.wikipedia.org/wiki/Child_rearing "Child rearing"); [home care](https://en.wikipedia.org/wiki/Home_care "Home care") of people with disabilities and illnesses
+- **650 [Management](https://en.wikipedia.org/wiki/Management "Management") and public relations**
+	- 650 Management and auxiliary services
+	- 651 [Office](https://en.wikipedia.org/wiki/Office "Office") services
+	- 652 Processes of written communication
+	- 653 [Shorthand](https://en.wikipedia.org/wiki/Shorthand "Shorthand")
+	- 654–656 *Not assigned or no longer used*
+	- 657 [Accounting](https://en.wikipedia.org/wiki/Accounting "Accounting")
+	- 658 General management
+	- 659 [Advertising](https://en.wikipedia.org/wiki/Advertising "Advertising") and [public relations](https://en.wikipedia.org/wiki/Public_relations "Public relations")
+- **660 [Chemical engineering](https://en.wikipedia.org/wiki/Chemical_engineering "Chemical engineering")**
+	- 660 Chemical engineering and related technologies
+	- 661 Technology of industrial chemicals
+	- 662 Technology of [explosives](https://en.wikipedia.org/wiki/Explosives "Explosives"), [fuels](https://en.wikipedia.org/wiki/Fuels "Fuels"), related products
+	- 663 Beverage technology
+	- 664 [Food technology](https://en.wikipedia.org/wiki/Food_technology "Food technology")
+	- 665 Technology of industrial [oils](https://en.wikipedia.org/wiki/Oil "Oil"), [fats](https://en.wikipedia.org/wiki/Fat "Fat"), [waxes](https://en.wikipedia.org/wiki/Wax "Wax"), gases
+	- 666 [Ceramic](https://en.wikipedia.org/wiki/Ceramic "Ceramic") and allied technologies
+	- 667 [Cleaning](https://en.wikipedia.org/wiki/Washing "Washing"), [color](https://en.wikipedia.org/wiki/Pigment "Pigment"), coating, related technologies
+	- 668 Technology of other organic products
+	- 669 [Metallurgy](https://en.wikipedia.org/wiki/Metallurgy "Metallurgy")
+- **670 [Manufacturing](https://en.wikipedia.org/wiki/Outline_of_manufacturing "Outline of manufacturing")**
+	- 670 Manufacturing
+	- 671 [Metalworking](https://en.wikipedia.org/wiki/Metalworking "Metalworking") processes and primary metal products
+	- 672 [Iron](https://en.wikipedia.org/wiki/Iron "Iron"), [steel](https://en.wikipedia.org/wiki/Steel "Steel"), other [iron alloys](https://en.wikipedia.org/wiki/Category:Ferrous_alloys "Category:Ferrous alloys")
+	- 673 Nonferrous [metals](https://en.wikipedia.org/wiki/Metal "Metal")
+	- 674 [Lumber](https://en.wikipedia.org/wiki/Timber "Timber") processing, [wood](https://en.wikipedia.org/wiki/Wood "Wood") products, [cork](https://en.wikipedia.org/wiki/Cork_(material) "Cork (material)")
+	- 675 [Leather](https://en.wikipedia.org/wiki/Leather "Leather") and [fur](https://en.wikipedia.org/wiki/Fur "Fur") processing
+	- 676 [Pulp and paper technology](https://en.wikipedia.org/wiki/Pulp_and_paper_industry "Pulp and paper industry")
+	- 677 [Textiles](https://en.wikipedia.org/wiki/Textile "Textile")
+	- 678 [Elastomers](https://en.wikipedia.org/wiki/Elastomer "Elastomer") and elastomer products
+	- 679 Other products of specific kinds of materials
+- **680 Manufacture for specific uses**
+	- 680 Manufacture of products for specific uses
+	- 681 [Precision instruments](https://en.wikipedia.org/wiki/Measuring_instrument "Measuring instrument") and other devices
+	- 682 Small [forge](https://en.wikipedia.org/wiki/Forge "Forge") work ([Blacksmithing](https://en.wikipedia.org/wiki/Blacksmith "Blacksmith"))
+	- 683 [Hardware](https://en.wikipedia.org/wiki/Household_hardware "Household hardware") and [household appliances](https://en.wikipedia.org/wiki/Category:Home_appliances "Category:Home appliances")
+	- 684 Furnishings and home [workshops](https://en.wikipedia.org/wiki/Workshop "Workshop")
+	- 685 Leather and fur goods, and related products
+	- 686 [Printing](https://en.wikipedia.org/wiki/Printing "Printing") and related activities
+	- 687 [Clothing](https://en.wikipedia.org/wiki/Clothing "Clothing") and accessories
+	- 688 Other final products, and [packaging](https://en.wikipedia.org/wiki/Packaging "Packaging") technology
+	- 689 *Not assigned or no longer used*
+- **690 Construction of [buildings](https://en.wikipedia.org/wiki/Building "Building")**
+	- 690 Construction of buildings
+	- 691 Building materials
+	- 692 Auxiliary construction practices
+	- 693 Construction in specific types of materials and for specific purposes
+	- 694 [Wood construction](https://en.wikipedia.org/wiki/Carpentry "Carpentry")
+	- 695 [Roof](https://en.wikipedia.org/wiki/Roof "Roof") covering
+	- 696 Utilities
+	- 697 [Heating](https://en.wikipedia.org/wiki/HVAC "HVAC"), [ventilating](https://en.wikipedia.org/wiki/Ventilating "Ventilating"), [air-conditioning](https://en.wikipedia.org/wiki/Air-conditioning "Air-conditioning") engineering
+	- 698 Detail finishing
+	- 699 *Not assigned or no longer used*
+
+## Class 700 – Arts and recreation\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=8 "Edit section: Class 700 – Arts and recreation")\]
+
+- **700 [Arts](https://en.wikipedia.org/wiki/Arts "Arts")**
+	- 700 The Arts
+	- 701 [Philosophy](https://en.wikipedia.org/wiki/Philosophy_of_art "Philosophy of art") and [theory](https://en.wikipedia.org/wiki/Aesthetics "Aesthetics") of fine and decorative arts
+	- 702 Miscellany of fine and decorative arts
+	- 703 Dictionaries, encyclopedias, concordances of fine and decorative arts
+	- 704 Special topics in fine and decorative arts
+	- 705 [Serial publications](https://en.wikipedia.org/wiki/Category:Visual_arts_magazines "Category:Visual arts magazines") of fine and decorative arts
+	- 706 Organizations and management of fine and decorative arts
+	- 707 Education, research, related topics of fine and decorative arts
+	- 708 [Galleries, museums, private collections](https://en.wikipedia.org/wiki/Category:Art_museums_and_galleries "Category:Art museums and galleries") of fine and decorative arts
+	- 709 [History](https://en.wikipedia.org/wiki/Art_history "Art history"), geographic treatment, biography
+- **710 Area planning and [landscape architecture](https://en.wikipedia.org/wiki/Landscape_art "Landscape art")**
+	- 710 Area planning and landscape architecture
+	- 711 [Area planning](https://en.wikipedia.org/wiki/Urbanism "Urbanism") (Civic art)
+	- 712 [Landscape architecture](https://en.wikipedia.org/wiki/Landscape_architecture "Landscape architecture") (Landscape design)
+	- 713 Landscape architecture of trafficways
+	- 714 [Water features](https://en.wikipedia.org/wiki/Water_feature "Water feature") in landscape architecture
+	- 715 [Woody plants](https://en.wikipedia.org/wiki/Woody_plant "Woody plant") in landscape architecture
+	- 716 [Herbaceous plants](https://en.wikipedia.org/wiki/Herbaceous_plant "Herbaceous plant") in landscape architecture
+	- 717 Structures in landscape architecture
+	- 718 Landscape design of cemeteries
+	- 719 Natural [landscapes](https://en.wikipedia.org/wiki/Landscape "Landscape")
+- **720 [Architecture](https://en.wikipedia.org/wiki/Outline_of_architecture "Outline of architecture")**
+	- 720 Architecture
+	- 721 Architectural materials and structural elements
+	- 722 Architecture from earliest times to c. 300
+	- 723 Architecture from c. 300 to 1399
+	- 724 Architecture from 1400
+	- 725 Public structures
+	- 726 [Buildings for religious and related purposes](https://en.wikipedia.org/wiki/Religious_architecture "Religious architecture")
+	- 727 Buildings for educational and research purposes
+	- 728 [Residential and related buildings](https://en.wikipedia.org/wiki/House "House")
+	- 729 [Design](https://en.wikipedia.org/wiki/Design "Design") and [decoration](https://en.wikipedia.org/wiki/Painter_and_decorator "Painter and decorator") of structures and accessories
+- **730 [Sculpture](https://en.wikipedia.org/wiki/Outline_of_sculpture "Outline of sculpture"), ceramics and metalwork**
+	- 730 Sculpture and related arts
+	- 731 Processes, forms, subjects of sculpture
+	- 732 Sculpture from earliest times to c. 500, sculpture of non-literate peoples
+	- 733 [Greek, Etruscan, Roman sculpture](https://en.wikipedia.org/wiki/Classical_sculpture "Classical sculpture")
+	- 734 Sculpture from ca 500 to 1399
+	- 735 Sculpture from 1400
+	- 736 [Carving](https://en.wikipedia.org/wiki/Stone_carving "Stone carving") and carvings
+	- 737 [Numismatics](https://en.wikipedia.org/wiki/Numismatics "Numismatics") and [sigillography](https://en.wikipedia.org/wiki/Sigillography "Sigillography")
+	- 738 [Ceramic arts](https://en.wikipedia.org/wiki/Ceramics_(art) "Ceramics (art)")
+	- 739 Art metalwork
+- **740 Graphic arts and [decorative arts](https://en.wikipedia.org/wiki/Decorative_art "Decorative art")**
+	- 740 Graphic arts
+	- 741 Drawing and drawings
+	- 742 [Perspective](https://en.wikipedia.org/wiki/Perspective_(graphical) "Perspective (graphical)") in drawing
+	- 743 Drawing and drawings by subject
+	- 744 Communication design and visual design (proposed[\[5\]](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_note-5))
+	- 745 Decorative arts
+	- 746 [Textile arts](https://en.wikipedia.org/wiki/Textile_arts "Textile arts")
+	- 747 [Interior decoration](https://en.wikipedia.org/wiki/Interior_decoration "Interior decoration")
+	- 748 [Glass](https://en.wikipedia.org/wiki/Glass "Glass")
+	- 749 [Furniture](https://en.wikipedia.org/wiki/Furniture "Furniture") and accessories
+- **750 [Painting](https://en.wikipedia.org/wiki/Painting "Painting")**
+	- 750 Painting and [paintings](https://en.wikipedia.org/wiki/Category:Paintings "Category:Paintings")
+	- 751 Techniques, procedures, apparatus, equipment, materials, forms
+	- 752 [Color](https://en.wikipedia.org/wiki/Color "Color")
+	- 753 [Symbolism](https://en.wikipedia.org/wiki/Symbol "Symbol"), [allegory](https://en.wikipedia.org/wiki/Allegory "Allegory"), [mythology](https://en.wikipedia.org/wiki/Mythology "Mythology"), [legend](https://en.wikipedia.org/wiki/Legend "Legend")
+	- 754 [Genre paintings](https://en.wikipedia.org/wiki/Genre_art "Genre art")
+	- 755 [Religion](https://en.wikipedia.org/wiki/Iconography "Iconography")
+	- 756 *Not assigned or no longer used*
+	- 757 Human figures
+	- 758 Nature, architectural subjects and cityscapes, other specific subjects
+	- 759 [History](https://en.wikipedia.org/wiki/History_of_painting "History of painting"), geographic treatment, biography
+- **760 [Printmaking](https://en.wikipedia.org/wiki/Printmaking "Printmaking") and prints**
+	- 760 Printmaking and prints
+	- 761 Relief processes ([Block printing](https://en.wikipedia.org/wiki/Block_printing "Block printing"))
+	- 762 *Not assigned or no longer used*
+	- 763 [Lithographic](https://en.wikipedia.org/wiki/Lithography "Lithography") processes (Planographic processes)
+	- 764 [Chromolithography](https://en.wikipedia.org/wiki/Chromolithography "Chromolithography") and [serigraphy](https://en.wikipedia.org/wiki/Serigraphy "Serigraphy")
+	- 765 [Metal engraving](https://en.wikipedia.org/wiki/Metal_engraving "Metal engraving")
+	- 766 [Mezzotinting](https://en.wikipedia.org/wiki/Mezzotint "Mezzotint"), aquatinting, and related processes
+	- 767 [Etching](https://en.wikipedia.org/wiki/Etching "Etching") and [drypoint](https://en.wikipedia.org/wiki/Drypoint "Drypoint")
+	- 768 *Not assigned or no longer used*
+	- 769 Prints
+- **770 [Photography](https://en.wikipedia.org/wiki/Outline_of_photography "Outline of photography"), computer art, film, video**
+	- 770 Photography, computer art, cinematography, videography
+	- 771 [Techniques](https://en.wikipedia.org/wiki/Category:Photographic_techniques "Category:Photographic techniques"), procedures, apparatus, [equipment](https://en.wikipedia.org/wiki/Category:Photography_equipment "Category:Photography equipment"), materials
+	- 772 Metallic salt processes
+	- 773 Pigment processes of printing
+	- 774 *No longer used—formerly [Holography](https://en.wikipedia.org/wiki/Holography "Holography")*
+	- 775 *No longer used—formerly [Digital photography](https://en.wikipedia.org/wiki/Digital_photography "Digital photography")*
+	- 776 [Computer art](https://en.wikipedia.org/wiki/Computer_art "Computer art") (Digital art)
+	- 777 [Cinematography](https://en.wikipedia.org/wiki/Cinematography "Cinematography") and [Videography](https://en.wikipedia.org/wiki/Videography "Videography")
+	- 778 Specific fields and special kinds of photography
+	- 779 [Photographic images](https://en.wikipedia.org/wiki/Category:Photographs "Category:Photographs")
+- **780 [Music](https://en.wikipedia.org/wiki/Outline_of_music "Outline of music")**
+	- 780 Music
+	- 781 [General principles](https://en.wikipedia.org/wiki/Music_theory "Music theory") and [musical forms](https://en.wikipedia.org/wiki/Musical_form "Musical form")
+	- 782 [Vocal music](https://en.wikipedia.org/wiki/Vocal_music "Vocal music")
+	- 783 Music for single voices
+	- 784 [Instruments](https://en.wikipedia.org/wiki/Musical_instrument "Musical instrument") and [Instrumental ensembles](https://en.wikipedia.org/wiki/Musical_ensemble "Musical ensemble") and their music
+	- 785 Ensembles with only one instrument per part
+	- 786 [Keyboard](https://en.wikipedia.org/wiki/Keyboard_instrument "Keyboard instrument"), mechanical, electrophonic, percussion instruments
+	- 787 [Stringed instruments](https://en.wikipedia.org/wiki/String_instrument "String instrument") (Chordophones)
+	- 788 [Wind instruments](https://en.wikipedia.org/wiki/Wind_instrument "Wind instrument") (Aerophones)
+	- 789 *Not assigned or no longer used*
+- **790 [Outline of sports](https://en.wikipedia.org/wiki/Outline_of_sports "Outline of sports"), games and entertainment**
+	- 790 Recreational and performing arts
+	- 791 Public performances
+	- 792 Stage presentations
+	- 793 [Indoor games](https://en.wikipedia.org/wiki/Indoor_games "Indoor games") and amusements
+	- 794 Indoor games of skill
+	- 795 Games of chance
+	- 796 Athletic and outdoor sports and games
+	- 797 Aquatic and air sports
+	- 798 [Equestrian sports](https://en.wikipedia.org/wiki/List_of_equestrian_sports "List of equestrian sports") and animal racing
+	- 799 [Fishing](https://en.wikipedia.org/wiki/Fishing "Fishing"), [hunting](https://en.wikipedia.org/wiki/Hunting "Hunting"), [shooting](https://en.wikipedia.org/wiki/Shooting "Shooting")
+
+## Class 800 – Literature\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=9 "Edit section: Class 800 – Literature")\]
+
+- **800 [Literature](https://en.wikipedia.org/wiki/Outline_of_literature "Outline of literature"), [rhetoric](https://en.wikipedia.org/wiki/Rhetoric "Rhetoric") and [criticism](https://en.wikipedia.org/wiki/Literary_criticism "Literary criticism")**
+	- 800 Literature ([Belles-lettres](https://en.wikipedia.org/wiki/Belles-lettres "Belles-lettres")) and rhetoric
+	- 801 Philosophy and theory
+	- 802 Miscellany
+	- 803 Dictionaries, encyclopedias, concordances
+	- 804 *Not assigned or no longer used*
+	- 805 [Serial publications](https://en.wikipedia.org/wiki/Literary_magazine "Literary magazine")
+	- 806 Organizations and management
+	- 807 Education, research, related topics
+	- 808 Rhetoric and collections of literary texts from more than two literatures
+	- 809 [History](https://en.wikipedia.org/wiki/History_of_literature "History of literature"), description, critical appraisal of more than two literatures
+- **810 [American literature](https://en.wikipedia.org/wiki/American_literature "American literature") in English**
+	- 810 American literature in English
+	- 811 American [poetry](https://en.wikipedia.org/wiki/Poetry_of_the_United_States "Poetry of the United States") in English
+	- 812 American drama in English
+	- 813 American fiction in English
+	- 814 American essays in English
+	- 815 American speeches in English
+	- 816 American letters in English
+	- 817 American humor and satire in English
+	- 818 American miscellaneous writings in English
+	- 819 *No longer used—formerly Puzzle activities*
+- **820 [English](https://en.wikipedia.org/wiki/English_literature "English literature") and [Old English literatures](https://en.wikipedia.org/wiki/Old_English_literature "Old English literature")**
+	- 820 English and [Old English (Anglo-Saxon) literatures](https://en.wikipedia.org/wiki/Old_English_literature "Old English literature")
+	- 821 English Poetry
+	- 822 [English drama](https://en.wikipedia.org/wiki/English_drama "English drama")
+	- 823 English fiction
+	- 824 English essays
+	- 825 English speeches
+	- 826 English letters
+	- 827 English humor and satire
+	- 828 English miscellaneous writings
+	- 829 Old English (Anglo-Saxon) literature
+- **830 [German](https://en.wikipedia.org/wiki/German_literature "German literature") and related literatures**
+	- 830 German literature and literatures of related languages
+	- 831 [German poetry](https://en.wikipedia.org/wiki/German_poetry "German poetry")
+	- 832 German drama
+	- 833 German fiction
+	- 834 German essays
+	- 835 German speeches
+	- 836 German letters
+	- 837 German humor and satire
+	- 838 German miscellaneous writings
+	- 839 Other Germanic literatures
+- **840 French and related literatures**
+	- 840 French literature and literatures of related Romance languages
+	- 841 [French poetry](https://en.wikipedia.org/wiki/French_poetry "French poetry")
+	- 842 French drama
+	- 843 French fiction
+	- 844 French essays
+	- 845 French speeches
+	- 846 French letters
+	- 847 French humor and satire
+	- 848 French miscellaneous writings
+	- 849 [Occitan](https://en.wikipedia.org/wiki/Occitan_literature "Occitan literature"), [Catalan](https://en.wikipedia.org/wiki/Catalan_literature "Catalan literature"), Franco-Provençal literatures
+- **850 [Italian](https://en.wikipedia.org/wiki/Italian_literature "Italian literature"), [Romanian](https://en.wikipedia.org/wiki/Romanian_literature "Romanian literature") and related literatures**
+	- 850 Literatures of Italian, Dalmatian, Romanian, Rhaetian, Sardinian, Corsican languages
+	- 851 [Italian poetry](https://en.wikipedia.org/wiki/Italian_poetry "Italian poetry")
+	- 852 Italian drama
+	- 853 Italian fiction
+	- 854 Italian essays
+	- 855 Italian speeches
+	- 856 Italian letters
+	- 857 Italian humor and satire
+	- 858 Italian miscellaneous writings
+	- 859 Literatures of Romanian, Rhaetian, Sardinian, Corsican languages
+- **860 [Spanish](https://en.wikipedia.org/wiki/Spanish_literature "Spanish literature"), [Portuguese](https://en.wikipedia.org/wiki/Portuguese_literature "Portuguese literature"), Galician literatures**
+	- 860 Literatures of Spanish, Portuguese, Galician languages
+	- 861 [Spanish poetry](https://en.wikipedia.org/wiki/Spanish_poetry "Spanish poetry")
+	- 862 Spanish drama
+	- 863 Spanish fiction
+	- 864 Spanish essays
+	- 865 Spanish speeches
+	- 866 Spanish letters
+	- 867 Spanish humor and satire
+	- 868 Spanish miscellaneous writings
+	- 869 Literatures of Portuguese and Galician languages
+- **870 [Latin](https://en.wikipedia.org/wiki/Latin_literature "Latin literature") and Italic literatures**
+	- 870 Latin literature and literatures of related Italic languages
+	- 871 [Latin poetry](https://en.wikipedia.org/wiki/Latin_poetry "Latin poetry")
+	- 872 Latin dramatic poetry and drama
+	- 873 Latin epic poetry and fiction
+	- 874 Latin lyric poetry
+	- 875 Latin speeches
+	- 876 Latin letters
+	- 877 Latin humor and satire
+	- 878 Latin miscellaneous writings
+	- 879 Literatures of other Italic languages
+- **880 Classical and modern Greek literatures**
+	- 880 Classical Greek literature and literatures of related Hellenic languages
+	- 881 Classical Greek poetry
+	- 882 Classical Greek drama
+	- 883 Classical Greek epic poetry and fiction
+	- 884 Classical Greek lyric poetry
+	- 885 Classical Greek speeches
+	- 886 Classical Greek letters
+	- 887 Classical Greek humor and satire
+	- 888 Classical Greek miscellaneous writings
+	- 889 [Modern Greek literature](https://en.wikipedia.org/wiki/Modern_Greek_literature "Modern Greek literature")
+- **890 Other literatures**
+	- 890 Literatures of other specific languages and language families
+	- 891 East Indo-European and [Celtic](https://en.wikipedia.org/wiki/Celtic_literature "Celtic literature") literatures
+	- 892 [Afro-Asiatic](https://en.wikipedia.org/wiki/Afro-Asiatic_languages "Afro-Asiatic languages") literatures
+	- 893 Non-Semitic Afro-Asiatic literatures
+	- 894 Literatures of Altaic, Uralic, Hyperborean, [Dravidian](https://en.wikipedia.org/wiki/Dravidian_peoples "Dravidian peoples") languages; literatures of miscellaneous languages of South Asia
+	- 895 Literatures of East and Southeast Asia
+	- 896 African literatures
+	- 897 Literatures of North American native languages
+	- 898 Literatures of South American native languages
+	- 899 Literatures of non-Austronesian languages of Oceania, of Austronesian languages, of miscellaneous languages
+
+## Class 900 – History and geography\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=10 "Edit section: Class 900 – History and geography")\]
+
+- **900 [History](https://en.wikipedia.org/wiki/Outline_of_history "Outline of history")**
+	- 900 History, geography, and auxiliary disciplines
+	- 901 Philosophy and theory of history
+	- 902 Miscellany of history
+	- 903 Dictionaries, encyclopedias, concordances of history
+	- 904 Collected accounts of events
+	- 905 Serial publications of history
+	- 906 Organizations and management of history
+	- 907 Education, research, related topics of history
+	- 908 History with respect to groups of people
+	- 909 [World history](https://en.wikipedia.org/wiki/World_history_(field) "World history (field)")
+- **910 [Geography](https://en.wikipedia.org/wiki/Geography "Geography") and [travel](https://en.wikipedia.org/wiki/Travel "Travel")**
+	- 910 Geography and travel
+	- 911 [Historical geography](https://en.wikipedia.org/wiki/Historical_geography "Historical geography")
+	- 912 [Graphic representations of surface of earth](https://en.wikipedia.org/wiki/Map "Map") and of extraterrestrial worlds
+	- 913 Geography of and travel in the [ancient world](https://en.wikipedia.org/wiki/Ancient_world "Ancient world")
+	- 914 Geography of and travel in [Europe](https://en.wikipedia.org/wiki/Outline_of_Europe "Outline of Europe")
+	- 915 Geography of and travel in [Asia](https://en.wikipedia.org/wiki/Outline_of_Asia "Outline of Asia")
+	- 916 Geography of and travel in [Africa](https://en.wikipedia.org/wiki/Outline_of_Africa "Outline of Africa")
+	- 917 Geography of and travel in [North America](https://en.wikipedia.org/wiki/Outline_of_North_America "Outline of North America")
+	- 918 Geography of and travel in [South America](https://en.wikipedia.org/wiki/Outline_of_South_America "Outline of South America")
+	- 919 Geography of and travel in Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, and on extraterrestrial worlds
+- **920 [Biography](https://en.wikipedia.org/wiki/Biography "Biography") and [genealogy](https://en.wikipedia.org/wiki/Genealogy "Genealogy")**
+	- 920 Biography, genealogy, insignia
+	- 921–928 This range is reserved as an optional location for biographies, which are shelved alphabetically by subject's last name.
+	- 929 Genealogy, [names](https://en.wikipedia.org/wiki/Name "Name"), insignia
+- **930 [History of ancient world (to c. 499)](https://en.wikipedia.org/wiki/Ancient_history "Ancient history")**
+	- 930 History of ancient world to c. 499
+	- 931 [China](https://en.wikipedia.org/wiki/History_of_China#Ancient_China "History of China") to 420
+	- 932 [Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt "Ancient Egypt") to 640
+	- 933 [Palestine](https://en.wikipedia.org/wiki/History_of_Palestine "History of Palestine") to 70
+	- 934 South Asia to 647
+	- 935 [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia "Mesopotamia") to 637 and [Iranian Plateau](https://en.wikipedia.org/wiki/History_of_Iran "History of Iran") to 637
+	- 936 [Europe north and west of Italian Peninsula](https://en.wikipedia.org/wiki/Prehistoric_Europe "Prehistoric Europe") to c. 499
+	- 937 Italian Peninsula to 476 and adjacent territories to 476
+	- 938 [Greece](https://en.wikipedia.org/wiki/Ancient_Greece "Ancient Greece") to 323
+	- 939 Other parts of ancient world
+- **940 [History of Europe](https://en.wikipedia.org/wiki/History_of_Europe "History of Europe")**
+	- 940 History of Europe
+	- 941 [British Isles](https://en.wikipedia.org/wiki/History_of_the_British_Isles "History of the British Isles")
+	- 942 [England](https://en.wikipedia.org/wiki/History_of_England "History of England") and [Wales](https://en.wikipedia.org/wiki/History_of_Wales "History of Wales")
+	- 943 [Germany](https://en.wikipedia.org/wiki/History_of_Germany "History of Germany") and neighboring [central European countries](https://en.wikipedia.org/wiki/Central_Europe "Central Europe")
+	- 944 [France](https://en.wikipedia.org/wiki/History_of_France "History of France") and [Monaco](https://en.wikipedia.org/wiki/History_of_Monaco "History of Monaco")
+	- 945 [Italy](https://en.wikipedia.org/wiki/History_of_Italy "History of Italy"), San Marino, Vatican City, Malta
+	- 946 [Spain](https://en.wikipedia.org/wiki/History_of_Spain "History of Spain"), Andorra, Gibraltar, [Portugal](https://en.wikipedia.org/wiki/History_of_Portugal "History of Portugal")
+	- 947 [Russia](https://en.wikipedia.org/wiki/History_of_Russia "History of Russia") and [neighboring east European countries](https://en.wikipedia.org/wiki/Post-Soviet_states "Post-Soviet states")
+	- 948 [Scandinavia](https://en.wikipedia.org/wiki/History_of_Scandinavia "History of Scandinavia")
+	- 949 Other parts of Europe
+- **950 [History of Asia](https://en.wikipedia.org/wiki/History_of_Asia "History of Asia")**
+	- 950 History of Asia
+	- 951 [China](https://en.wikipedia.org/wiki/History_of_China "History of China") and adjacent areas
+	- 952 [Japan](https://en.wikipedia.org/wiki/History_of_Japan "History of Japan")
+	- 953 [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula "Arabian Peninsula") and adjacent areas
+	- 954 [India](https://en.wikipedia.org/wiki/History_of_India "History of India") and neighboring [south Asian countries](https://en.wikipedia.org/wiki/History_of_South_Asia "History of South Asia");
+	- 955 [Iran](https://en.wikipedia.org/wiki/History_of_Iran "History of Iran")
+	- 956 [Middle East](https://en.wikipedia.org/wiki/History_of_the_Middle_East "History of the Middle East") (Near East)
+	- 957 [Siberia](https://en.wikipedia.org/wiki/History_of_Siberia "History of Siberia") (Asiatic Russia)
+	- 958 [Central Asia](https://en.wikipedia.org/wiki/History_of_Central_Asia "History of Central Asia")
+	- 959 [Southeast Asia](https://en.wikipedia.org/wiki/History_of_Southeast_Asia "History of Southeast Asia")
+- **960 [History of Africa](https://en.wikipedia.org/wiki/History_of_Africa "History of Africa")**
+	- 960 History of Africa
+	- 961 [Tunisia](https://en.wikipedia.org/wiki/History_of_Tunisia "History of Tunisia") and [Libya](https://en.wikipedia.org/wiki/History_of_Libya "History of Libya")
+	- 962 [Egypt](https://en.wikipedia.org/wiki/History_of_Egypt "History of Egypt"), [Sudan](https://en.wikipedia.org/wiki/History_of_Sudan "History of Sudan"), South Sudan
+	- 963 [Ethiopia](https://en.wikipedia.org/wiki/History_of_Ethiopia "History of Ethiopia") and Eritrea
+	- 964 [Morocco](https://en.wikipedia.org/wiki/History_of_Morocco "History of Morocco"), Ceuta, Melilla Western Sahara, [Canary Islands](https://en.wikipedia.org/wiki/Canary_Islands#History "Canary Islands")
+	- 965 [Algeria](https://en.wikipedia.org/wiki/History_of_Algeria "History of Algeria")
+	- 966 [West Africa](https://en.wikipedia.org/wiki/History_of_West_Africa "History of West Africa") and offshore islands
+	- 967 [Central Africa](https://en.wikipedia.org/wiki/Central_Africa "Central Africa") and offshore islands
+	- 968 [South Africa](https://en.wikipedia.org/wiki/History_of_South_Africa "History of South Africa") & southern Africa
+	- 969 South [Indian Ocean](https://en.wikipedia.org/wiki/Indian_Ocean "Indian Ocean") islands
+- **970 [History of North America](https://en.wikipedia.org/wiki/History_of_North_America "History of North America")**
+	- 970 History of North America
+	- 971 [Canada](https://en.wikipedia.org/wiki/History_of_Canada "History of Canada")
+	- 972 [Mexico](https://en.wikipedia.org/wiki/History_of_Mexico "History of Mexico"), [Central America](https://en.wikipedia.org/wiki/History_of_Central_America "History of Central America"), West Indies, Bermuda
+	- 973 [United States](https://en.wikipedia.org/wiki/History_of_the_United_States "History of the United States")
+	- 974 [Northeastern United States](https://en.wikipedia.org/wiki/Northeastern_United_States#History "Northeastern United States") (New England and Middle Atlantic states)
+	- 975 Southeastern United States (South Atlantic states)
+	- 976 South central United States
+	- 977 North central United States
+	- 978 Western United States
+	- 979 Great Basin and Pacific Slope region of United States
+- **980 [History of South America](https://en.wikipedia.org/wiki/History_of_South_America "History of South America")**
+	- 980 History of South America
+	- 981 [Brazil](https://en.wikipedia.org/wiki/History_of_Brazil "History of Brazil")
+	- 982 [Argentina](https://en.wikipedia.org/wiki/History_of_Argentina "History of Argentina")
+	- 983 [Chile](https://en.wikipedia.org/wiki/History_of_Chile "History of Chile")
+	- 984 [Bolivia](https://en.wikipedia.org/wiki/History_of_Bolivia "History of Bolivia")
+	- 985 [Peru](https://en.wikipedia.org/wiki/History_of_Peru "History of Peru")
+	- 986 [Colombia](https://en.wikipedia.org/wiki/History_of_Colombia "History of Colombia") and [Ecuador](https://en.wikipedia.org/wiki/History_of_Ecuador "History of Ecuador")
+	- 987 [Venezuela](https://en.wikipedia.org/wiki/History_of_Venezuela "History of Venezuela")
+	- 988 [Guiana](https://en.wikipedia.org/wiki/History_of_Guyana "History of Guyana")
+	- 989 [Paraguay](https://en.wikipedia.org/wiki/History_of_Paraguay "History of Paraguay") and [Uruguay](https://en.wikipedia.org/wiki/History_of_Uruguay "History of Uruguay")
+- **990 History of other areas**
+	- 990 History of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds
+	- 991–992 *Not assigned or no longer used*
+	- 993 [New Zealand](https://en.wikipedia.org/wiki/History_of_New_Zealand "History of New Zealand")
+	- 994 [Australia](https://en.wikipedia.org/wiki/History_of_Australia "History of Australia")
+	- 995 [New Guinea](https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea "History of Papua New Guinea") and neighboring countries of [Melanesia](https://en.wikipedia.org/wiki/Melanesia "Melanesia")
+	- 996 [Polynesia](https://en.wikipedia.org/wiki/Polynesia "Polynesia") and other Pacific Ocean islands
+	- 997 Atlantic Ocean islands
+	- 998 Arctic islands and [Antarctica](https://en.wikipedia.org/wiki/History_of_Antarctica "History of Antarctica")
+	- 999 Extraterrestrial worlds
+
+## See also\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=11 "Edit section: See also")\]
+
+- [Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification "Library of Congress Classification")
+- [Comparison of Dewey and Library of Congress subject classification](https://en.wikipedia.org/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification "Comparison of Dewey and Library of Congress subject classification")
+- [OCLC](https://en.wikipedia.org/wiki/OCLC "OCLC")
+- [WorldCat](https://en.wikipedia.org/wiki/WorldCat "WorldCat")
+
+## References\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=12 "Edit section: References")\]
+
+1. **[^](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_ref-1)** [DDC Frequently Asked Questions](http://staff.oclc.org/~dewey/dewey.htm)
+2. **[^](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_ref-2)** [Introduction to the *Dewey Decimal Classification (23rd edition)*](http://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)
+3. **[^](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_ref-3)** [Summary lists of *Dewey Decimal Classification*, 23rd edition (2011)](https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf)
+4. **[^](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_ref-4)** ["000 Computer science, information, general works"](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf) (PDF). OCLC. Retrieved 2022-01-08.
+5. **[^](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#cite_ref-5)** ["EPC 143-S74.1 Graphic design and communication design"](https://drive.google.com/file/d/1cshboqu6h7Ppe2J4ZXz2pqvwaQgEGmAt/view). OCLC. Retrieved 2023-01-29.
+
+## External links\[[edit](https://en.wikipedia.org/w/index.php?title=List_of_Dewey_Decimal_classes&action=edit&section=13 "Edit section: External links")\]
+
+- [Dewey Services](http://www.oclc.org/dewey/about.en.html), OCLC
+- [Summary lists of *Dewey Decimal Classification*, 23rd edition (2011)](https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf)
+- *[A Classification and Subject Index for Cataloguing and Arranging the Books and Pamphlets of a Library](https://gutenberg.org/ebooks/12513)*, 1st edition (1876) at [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg "Project Gutenberg")

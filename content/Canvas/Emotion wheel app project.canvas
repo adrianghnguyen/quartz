@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"800cdeb3b73bcb83","x":2060,"y":-397,"width":580,"height":607,"type":"group","label":"Basic output presentation"},
+		{"id":"d882006852c43958","x":-360,"y":60,"width":750,"height":420,"type":"group","label":"Nice to have input"},
+		{"id":"e4a9518d8aaa4712","type":"group","x":1180,"y":-397,"width":500,"height":607,"color":"1","label":"Processing (emotions)"},
+		{"id":"251a53b5b26d56e7","type":"group","x":530,"y":-319,"width":290,"height":200,"color":"1","label":"User input"},
+		{"id":"30b40e8ea58a2180","type":"file","file":"Administrative/File Attachments/Pasted image 20231106212016.png","x":-940,"y":120,"width":380,"height":380},
+		{"id":"95199a14b7bb85e2","type":"file","file":"Notes Central Hub/General notes/Identify the emotion you are feeling with a feelings chart.md","x":-940,"y":-322,"width":400,"height":400},
+		{"id":"0c828bceb335e723","type":"text","text":"Receive input from user","x":550,"y":-299,"width":250,"height":60},
+		{"id":"9111a85055b9bd95","type":"text","text":"Process text","x":550,"y":-199,"width":250,"height":60},
+		{"id":"67f9a0ac0ad2d990","x":1201,"y":-83,"width":319,"height":203,"type":"text","text":"Create item containining\n- input_text\n- decode_emotions_values as list\n- time_processed key?"},
+		{"id":"a5edf91d642262b5","x":135,"y":-299,"width":250,"height":60,"color":"1","type":"text","text":"Console receives input as string"},
+		{"id":"46f8af69fd39a5dc","type":"text","text":"Decode emotion and return results as list","x":1236,"y":-239,"width":250,"height":60},
+		{"id":"9ac612129f9ddf41","type":"text","text":"Receive text to be processed","x":1236,"y":-377,"width":250,"height":60},
+		{"id":"61ed907cd3e61b6f","type":"text","text":"Display all detected emotion probabilities","x":2081,"y":-377,"width":250,"height":60,"color":"1"},
+		{"id":"9b2f0e22220b8c35","x":2082,"y":-255,"width":250,"height":60,"type":"text","text":"List top N values of emotions"},
+		{"id":"fab1e883d2a4cf87","x":2207,"y":-1031,"width":440,"height":263,"type":"text","text":"Secondary task - create a feelings wheel dictionary CSV\n\n- Dictionary item\n- Contained values\n\t- model_emotion_value\n\t- emotion_definition_value\n\t- display_emotion_value"},
+		{"id":"a83f0032e34be228","x":1440,"y":-899,"width":500,"height":359,"type":"text","text":"Areas of future research:\n- Integrating chatGPT emotion evaluation\n- How does RoBERTa encode emotions?\n- Optimizing/fine-tuning the model with better datasets"},
+		{"id":"563ee44db8080c80","type":"text","text":"How are you feeling right now?","x":-340,"y":80,"width":250,"height":60},
+		{"id":"fee818f73f30d14b","type":"text","text":"Highlight over animation","x":-340,"y":260,"width":250,"height":60},
+		{"id":"146355966406c2f8","type":"text","text":"Get tooltip describing emotion","x":-340,"y":400,"width":250,"height":60},
+		{"id":"e19f6a8e6afb9921","type":"text","text":"Ask user to describe how they are feeling","x":120,"y":80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e0663938871d3d61","fromNode":"563ee44db8080c80","fromSide":"bottom","toNode":"fee818f73f30d14b","toSide":"top"},
+		{"id":"a3f0f02321e6a159","fromNode":"fee818f73f30d14b","fromSide":"bottom","toNode":"146355966406c2f8","toSide":"top"},
+		{"id":"c6539d5e78b5f8ef","fromNode":"563ee44db8080c80","fromSide":"right","toNode":"e19f6a8e6afb9921","toSide":"left"},
+		{"id":"b15c554cfa318f76","fromNode":"e19f6a8e6afb9921","fromSide":"right","toNode":"0c828bceb335e723","toSide":"left"},
+		{"id":"d935d4101350ee83","fromNode":"9ac612129f9ddf41","fromSide":"bottom","toNode":"46f8af69fd39a5dc","toSide":"top"},
+		{"id":"7a688b1b62127e39","fromNode":"251a53b5b26d56e7","fromSide":"right","toNode":"e4a9518d8aaa4712","toSide":"left","label":"String"},
+		{"id":"d350c9d3e81e6f97","fromNode":"a5edf91d642262b5","fromSide":"right","toNode":"0c828bceb335e723","toSide":"left"},
+		{"id":"d4a0494ca3836eaa","fromNode":"46f8af69fd39a5dc","fromSide":"bottom","toNode":"67f9a0ac0ad2d990","toSide":"top"},
+		{"id":"e2d9404889727bfd","fromNode":"e4a9518d8aaa4712","fromSide":"right","toNode":"800cdeb3b73bcb83","toSide":"left","label":"data object"},
+		{"id":"9af0c643cd226033","fromNode":"fab1e883d2a4cf87","fromSide":"bottom","toNode":"800cdeb3b73bcb83","toSide":"top"}
+	]
+}

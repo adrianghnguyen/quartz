@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"f595cffed0796913","type":"group","x":-1440,"y":-160,"width":3300,"height":1072,"label":"Loyalty program"},
+		{"id":"91a31091e61bb3fe","type":"file","file":"POSTPONED - Writing/Candid Take home assessment.md","x":-1500,"y":-950,"width":640,"height":620},
+		{"id":"114b62235c21dfc0","type":"text","text":"# Account Loyalty Program Status\n\n- Current loyalty tier per account.\n- Seems like this is the base table\n- Contains information about an account, loyalty program tier, when the tier was in effect (start/end date)\n\t- its loyalty program tier (id)\n\t- when the tier was in effect (includes start and end dates).\n- This is the **table which gets updated** to say what `loyalty_program_tier_id` get applies to a specific account\n---\n- Primary key `id`\n- Foreign keys\n\t- `account_id`\n\t- `loyalty_program_tier_id`\n- Columns\n\t- `program_start`\n\t- `program_end`","x":-180,"y":-140,"width":600,"height":480},
+		{"id":"2c9135dd2ee54335","type":"text","text":"# Loyalty program tier\n- Holds the names of the loyalty program tiers `name`\n\t- standard\n\t- silver\n\t- gold\n\t- plationum\n\t- diamond\n- Each tier can have multiple associated IDs\n\t- Assumption: to describe when it a particular rate was applied\n\n---\n\n- Primary key: `id`\n\t- Also used as foreign key for `Tier Discounts` table \n- Columns\n\t- sort_order\n\t- name (program tier name aka silver, standard, etc.)","x":1380,"y":-80,"width":460,"height":360},
+		{"id":"8e1efa66c98c9c72","type":"text","text":"# Tier discounts\n\n- Holds discounts associated with a loyalty program tier, in cents.\n---\n- Primary key: `id`\n- Foreign key: `loyalty_program_tier_id`","x":1380,"y":612,"width":460,"height":280},
+		{"id":"1b0ddcbbf9f5f2ee","type":"text","text":"# loyalty_program_tier_information\n\n- View which connects both information together so they can be normalized.\n- NOTE: The loyalty program tier table has rows which have no associated **tier discounts**","x":720,"y":280,"width":520,"height":300,"color":"3"},
+		{"id":"1fa9e4130fee20d0","type":"text","text":"# Account rates\n> - Holds fee associated with an account, in cents.\n> - TODO: There are multiple rates per account. (We need the latest fee per account, to avoid duplicates). -> Okay done.\n> - For each account, find the max(created_at) date and return it to me. \n---\n\n- PK: `id`\n- FK\n\t- `account_id`\n- Columns\n\t- `created_at`\n\t- `rate_in_cents` \n\n\n\n\n","x":-1420,"y":-127,"width":420,"height":455},
+		{"id":"a181ff44b156ca0a","type":"text","text":"# latest_account_rate\n\n- View \n- selects the max account rate using a CTE then joins it back onto the account table to find out only the most recent rate values\n- Did some quick spot data checks to make sure it's correct","x":-780,"y":280,"width":395,"height":217,"color":"3"}
+	],
+	"edges":[
+		{"id":"6d5723dd88c6807f","fromNode":"2c9135dd2ee54335","fromSide":"left","toNode":"114b62235c21dfc0","toSide":"right","toEnd":"none","label":"lpt.id = \nalps.loyalty_program_tier_id"},
+		{"id":"416e56990a05894f","fromNode":"8e1efa66c98c9c72","fromSide":"top","toNode":"2c9135dd2ee54335","toSide":"bottom","toEnd":"none","label":"lpt.id = td.loyalty_program_tier_id"},
+		{"id":"b76d02cd5f85286a","fromNode":"1fa9e4130fee20d0","fromSide":"right","toNode":"a181ff44b156ca0a","toSide":"left"},
+		{"id":"1a331f74f2745392","fromNode":"a181ff44b156ca0a","fromSide":"right","toNode":"114b62235c21dfc0","toSide":"left","toEnd":"none","label":"acc.account_id = \nalps.account_id"},
+		{"id":"6c85f5a848c096d3","fromNode":"2c9135dd2ee54335","fromSide":"left","toNode":"1b0ddcbbf9f5f2ee","toSide":"right"},
+		{"id":"ccda940626c570e6","fromNode":"8e1efa66c98c9c72","fromSide":"left","toNode":"1b0ddcbbf9f5f2ee","toSide":"right"},
+		{"id":"0dd2083700448597","fromNode":"1b0ddcbbf9f5f2ee","fromSide":"left","toNode":"114b62235c21dfc0","toSide":"right"},
+		{"id":"7c5857987386fb66","fromNode":"1fa9e4130fee20d0","fromSide":"right","toNode":"114b62235c21dfc0","toSide":"left","label":"many to one"}
+	]
+}
